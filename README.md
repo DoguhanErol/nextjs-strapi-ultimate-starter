@@ -2,6 +2,22 @@
 
 A professional, production-ready starter template for building modern web applications. This boilerplate is optimized for performance and scalability, featuring the latest **Next.js 16**, **React 19**, and **Tailwind CSS 4**.
 
+
+## ⚡ Start Fast
+
+Get your project up and running in seconds:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DoguhanErol/nextjs-strapi-ultimate-starter.git
+
+# 2. Install dependencies
+pnpm install
+
+# 3. Start development server
+pnpm dev
+```
+
 ## ✨ Tech Stack
 
 - **Framework:** [Next.js 16.1.1](https://nextjs.org/) (App Router)
