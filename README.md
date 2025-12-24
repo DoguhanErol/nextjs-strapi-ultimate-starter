@@ -1,4 +1,4 @@
-# 🚀 Nexus Starter: Next.js 16 & Strapi Boilerplate
+# 🚀 Nexus Starter: Next.js 16 & Strapi Boilerplate & Typescript & Tailwind 4 & Daisy UI
 
 A professional, production-ready starter template for building modern web applications. This boilerplate is optimized for performance and scalability, featuring the latest **Next.js 16**, **React 19**, and **Tailwind CSS 4**.
 
